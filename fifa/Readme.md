@@ -10,7 +10,10 @@ player_stats.csv - Kaggle
 선수 능력치와 몸값 간의 관계를 파악하여 적정 몸값을 예측하고, 데이터 기반 구단의 선수 영입 결정을 지원하기 위해 분석하였다.
 
 ### 4. 사용 기술 스택
-Python Numpy Pandas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 5. 주요 인사이트/결과
 몸값에 가장 큰 영향을 준 능력치는 reactions(상황 판단 속도) (0.156)으로, 포지션에 관계없이 모든 선수에게 요구되는 핵심 역량임을 확인하였다,
